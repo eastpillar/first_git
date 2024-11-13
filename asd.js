@@ -1,1 +1,1 @@
-console.log("처음하는 프로젝트");
+console.log("브렌치 사용하기");
